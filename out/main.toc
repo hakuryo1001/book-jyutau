@@ -1,0 +1,10 @@
+\contentsline {chapter}{\numberline {1}粵字改革宣言}{6}{}%
+\contentsline {chapter}{\numberline {2}為何粵語需要文字改革}{10}{}%
+\contentsline {section}{「擺埋一邊」、「船到橋頭自然直」的約定俗成主義}{12}{}%
+\contentsline {section}{所謂的「有音無字」：預先處理概念問題}{17}{}%
+\contentsline {section}{假借、訓讀}{20}{}%
+\contentsline {section}{擬聲字泛濫}{21}{}%
+\contentsline {section}{「本字」、「正字」}{23}{}%
+\contentsline {section}{語素與文字關係混亂不堪}{26}{}%
+\contentsline {section}{語素混亂：異素一寫、合多為一}{28}{}%
+\contentsline {section}{孤字：缺乏連貫性，無可語素化，難記難用}{29}{}%
